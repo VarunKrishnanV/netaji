@@ -16,7 +16,7 @@ body{
     list-style: none;
     margin-right: 4px;
     list-style-type: none;
-    font-size: 22px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     padding: 15px ;
     /* color: white; */
@@ -24,12 +24,12 @@ body{
 }
 @media only screen and ( max-width: 800px){
     .navitem {
-        font-size: 18px;
+        font-size: 22px;
     }
 }
 .navitem:hover{
     background-color: hsl(39, 100%, 50%, 0.5);
-    opacity: 
+   
 }
 nav .navigation .home{
     margin-left:auto;
@@ -78,10 +78,9 @@ clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 76% 84%, 50% 100%, 0 85%
 
 
 
-main{
-    background-image: url(netaji.jpg);
+.main{
+    background-image: rgba(0,0,0,0.3),url(netaji.jpg);
 }
-background: 
 
 
 
