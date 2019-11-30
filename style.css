@@ -1,0 +1,100 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* color: white; */
+}
+.navigation{
+    display: flex;
+    align-items: center;
+}
+.navitem{
+    display: block;
+
+
+    list-style: none;
+    margin-right: 4px;
+    list-style-type: none;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px ;
+    /* color: white; */
+
+}
+@media only screen and ( max-width: 800px){
+    .navitem {
+        font-size: 18px;
+    }
+}
+.navitem:hover{
+    background-color: hsl(39, 100%, 50%, 0.5);
+    opacity: 
+}
+nav .navigation .home{
+    margin-left:auto;
+    
+}
+
+.heading{
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 5px;;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    text-align: auto;
+    font-family: 'Solway';
+    font-size: 50px;
+    text-align: center;
+    height: 35vh;
+
+}
+@media only screen and ( max-width: 800px){
+    .heading {
+        font-size: 35px;
+    }
+}
+.white{
+    text-decoration: none;
+    list-style-type: none;
+    color:white}
+
+.white:hover
+{
+ text-decoration: none;
+ color: white;
+}
+
+.hello{
+
+background: linear-gradient(to bottom, #dd1818, orangered), url(netaji.jpg) no-repeat center center; 
+    background-size: cover;
+    background-position: right;
+    color: white;
+clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 76% 84%, 50% 100%, 0 85%, 0% 70%, 0% 35%, 0 0);
+
+}
+
+
+
+main{
+    background-image: url(netaji.jpg);
+}
+background: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
