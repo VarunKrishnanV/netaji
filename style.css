@@ -11,8 +11,6 @@ body{
 }
 .navitem{
     display: block;
-
-
     list-style: none;
     margin-right: 4px;
     list-style-type: none;
@@ -23,9 +21,10 @@ body{
 
 }
 
-}
-.navitem:hover{
-    background-color: hsl(39, 100%, 50%, 0.5);
+
+.navitem:hover
+{
+    background-color: orange;
    
 }
 nav .navigation .home{
