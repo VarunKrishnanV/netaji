@@ -78,7 +78,7 @@ clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 76% 84%, 50% 100%, 0 85%
     background-image: rgba(0,0,0,0.3),url(netaji.jpg);
 }
 hr{
-width:5px;
+border:50px solid black;
 
 }
 
